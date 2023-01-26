@@ -1,0 +1,69 @@
+
+Font
+    Roboto Regular 400
+
+
+Homepage Wireframe Web
+
+Webpage
+    width= 1200px
+    columns= 12
+
+Logo
+    width= 170px
+    height= 73px
+
+Navigation 
+    width= 764px
+    height= 73px
+
+Hero image
+    width= 1170px
+    height= 468
+
+Tagline box
+    width= 570px
+    height= 78px
+
+Gallery and Text boxes
+    width= 570px
+    height= 401px
+
+Footer
+    width= 1170px
+    height= 157px
+
+Footer nav
+    width= 670px
+    height= 57px
+
+Homepage Wireframe Mobile
+
+Mobilepage
+    width= 320px
+    columns= 4
+
+Logo
+    width= 130px
+    height= 44px
+
+Hero image
+    width= 290px
+    height= 336px
+
+Tagline box
+    width= 290px
+    height= 44px
+
+Gallery and Text boxes
+    width= 130px
+    height= 212px
+
+Footer
+    width= 290px
+    height= 106px
+
+Footer nav
+    width= 290px
+    height= 33px
+
