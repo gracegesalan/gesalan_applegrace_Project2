@@ -119,7 +119,7 @@
 }
 
 #text-box1 {
-    padding-top: 45px;
+    
     
     grid-column: 7/-1;
     height: 401px;
@@ -127,7 +127,7 @@
 }
 
 #text-box2 {
-    padding-top: 45px;
+    
     
     grid-column: 1/6;
     height: 401px;
@@ -138,6 +138,22 @@
     padding-top: 45px;
     padding-bottom: 45px;
     grid-column: 1/6;
+    height: 401px;
+    width: 570px;
+}
+
+#picture1 {
+    
+    padding-bottom: 45px;
+    grid-column: 1/6;
+    height: 401px;
+    width: 570px;
+}
+
+#picture2 {
+    
+    padding-bottom: 45px;
+    grid-column: 7/-1;
     height: 401px;
     width: 570px;
 }
