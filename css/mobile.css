@@ -1,0 +1,48 @@
+.hidden {
+    display: none;
+}
+
+
+.container {
+    width: 320px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: solid 1px #333;
+}
+
+.box-color {
+    background-color: black;
+    
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 58px);
+    grid-column-gap: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* 1. Navigation */
+
+#logo {
+    width: 130px;
+    height: 44px;
+    grid-column: 1/2;
+    
+    padding-top: 20px;
+}
+
+
+
+.burger {
+    height: 5px;
+    display: grid;
+    background-color: gray;
+    margin-bottom: 10px;
+}
+
+#mobile-nav {
+    grid-column: 4/-1;
+}
